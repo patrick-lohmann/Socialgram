@@ -1,2 +1,2 @@
 # SocialGram
-Replica of Instagram and some parts of its essential main functions - for educational purposes!
+Replica of Instagram with some parts of its essential main functions - for educational purposes!
